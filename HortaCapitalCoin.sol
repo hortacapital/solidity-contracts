@@ -18,3 +18,5 @@ contract MyToken is ERC20, ERC20Burnable, Ownable, ERC20Permit {
         _mint(main_wallet, 1000000 * 10 ** decimals());
     }
 }
+
+// Contract address:  0xe6433c57a5265129EC3F8AF839C5ffadF1B107Ab 
